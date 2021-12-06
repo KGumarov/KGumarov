@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Apache Tomcat-DB830F?style=flat-square&logo=apachetomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 </p>
 
 
