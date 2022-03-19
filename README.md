@@ -1,6 +1,6 @@
 # Hello there
 
-- I'm Kamil, 22 y.o.
+- I'm Kamil, 23 y.o.
 - From Russia, living in Kazan
 - The Bachelor of Science degree in Physics from [Kazan Federal University](https://kpfu.ru/) 
 
